@@ -28,7 +28,7 @@ const FAKE_USER = {
 };
 
 function AuthProvider({ children }) {
-  const [state, dispatch] = useReducer(initialState, reducer);
+  const [state, dispatch] = useReducer(reducer, initialState);
   const { user, isAuthenticated } = state;
 
   function login(email, password) {
@@ -59,6 +59,8 @@ function useAuth() {
   const context = useContext(AuthContext);
   if (context === undefined)
     throw new Error("Auth provider was used outside scope");
+
+  return context;
 }
 
 export { AuthProvider, useAuth };

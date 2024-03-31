@@ -71,6 +71,18 @@
         "lat": "-1.5698706375593854",
         "lng": "32.66235351562501"
       }
+    },
+    {
+      "id": "781a",
+      "cityName": "Mwanza",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-03-31T19:24:48.919Z",
+      "notes": "Yeah",
+      "position": {
+        "lat": "-2.5479878714713835",
+        "lng": "32.93701171875001"
+      }
     }
   ]
 }
