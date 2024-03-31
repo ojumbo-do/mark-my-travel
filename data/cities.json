@@ -13,30 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "3a68",
       "cityName": "Narok",
       "country": "Kenya",
@@ -70,6 +46,30 @@
       "position": {
         "lat": "-1.9539149299194447",
         "lng": "30.025634765625004"
+      }
+    },
+    {
+      "id": "7e94",
+      "cityName": "Serengeti",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-03-31T15:28:58.610Z",
+      "notes": "Serengeti\n",
+      "position": {
+        "lat": "-1.8440383367935407",
+        "lng": "34.53002929687501"
+      }
+    },
+    {
+      "id": "e276",
+      "cityName": "Lake Victoria",
+      "country": "Tanzania, the United Republic of",
+      "emoji": "🇹🇿",
+      "date": "2024-03-31T15:32:01.630Z",
+      "notes": "Vicky\n",
+      "position": {
+        "lat": "-1.5698706375593854",
+        "lng": "32.66235351562501"
       }
     }
   ]
